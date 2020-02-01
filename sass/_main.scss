@@ -1,0 +1,25 @@
+html{
+    font-size: 62.5%;
+}
+
+body{
+    font-family: 'Press Start 2P', cursive;
+}
+h1{
+    font-size: 15rem;
+    text-align: center;
+}
+
+.wrapper {
+    border: 1px solid red;
+    display: flex;
+    justify-content: center;
+    margin: 0 20px;
+}
+
+.catImg{
+    height: 500px;
+    width: 500px;
+    display: flex;
+    justify-content: center;
+}
