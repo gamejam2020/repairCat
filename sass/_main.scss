@@ -23,3 +23,15 @@ h1{
     display: flex;
     justify-content: center;
 }
+
+.repairWrapper{
+    display: flex;
+    justify-content: center;
+}
+
+.repairBox{
+    font-size: 10rem;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 50px;
+}
